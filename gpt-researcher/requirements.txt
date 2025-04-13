@@ -31,3 +31,4 @@ langgraph
 streamlit
 openai
 matplotlib
+plotly
