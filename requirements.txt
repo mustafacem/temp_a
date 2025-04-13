@@ -30,5 +30,6 @@ loguru
 langgraph
 streamlit
 openai
+matplotlib
 
 
