@@ -7,16 +7,16 @@ import pandas as pd
 import os
 import glob
 import numpy as np
-import matplotlib.pyplot as plt
 import base64
 import re
 
-import plotly.graph_objects as go
 
 import json
 import re
 import pandas as pd
 from openai import OpenAI
+import matplotlib.pyplot as plt
+import plotly.graph_objects as go
 
 # -------------------------------------------------------------------
 # REPLACE HARDCODED CREDENTIALS WITH ENVIRONMENT VARIABLES
