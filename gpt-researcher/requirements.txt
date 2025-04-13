@@ -32,3 +32,4 @@ streamlit
 openai
 matplotlib
 plotly
+openpyxl
